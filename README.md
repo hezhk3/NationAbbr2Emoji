@@ -1,2 +1,2 @@
 # NationAbbr2Emoji
-Nation abbr. to emoji unicode
+Nation abbr. to emoji unicode JSON
